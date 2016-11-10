@@ -1,7 +1,7 @@
-Package: github
+Package: grithub
 Type: Package
 Title: github API
-Version: 0.9.8
+Version: 0.10.0
 Author: Carlos Scheidegger <cscheid@research.att.com>
 Maintainer: Carlos Scheidegger <cscheid@research.att.com>
 Description: Provides access to the Github v3 API
