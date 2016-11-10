@@ -1,4 +1,4 @@
 library(testthat)
-library(github)
+library(grithub)
 
-test_check("github")
+test_check("grithub")
